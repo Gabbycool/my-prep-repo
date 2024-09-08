@@ -1,2 +1,2 @@
-# my-prep-repo minor update
+# my-prep-repo
 Practice account for learning Git
